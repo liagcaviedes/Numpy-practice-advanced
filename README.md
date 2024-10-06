@@ -47,9 +47,11 @@ This repository is aimed at developers, data scientists, and researchers who are
 
 ## Contributions
 If you want to contribute or send any comment, you can contact me.
+
 [linkedIn](https://www.linkedin.com/in/rosaliagonzalezcaviedes/)
+
 [Github](https://github.com/liagcaviedes/)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
