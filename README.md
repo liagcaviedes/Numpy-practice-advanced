@@ -1,6 +1,3 @@
-# Numpy-practice-advanced
-Collection of exercises related to advanced use of NumPy
-
 
 # Advanced NumPy Exercises
 
@@ -48,6 +45,10 @@ jupyter notebook Numpy_Avanzado.ipynb
 ## Usage
 This repository is aimed at developers, data scientists, and researchers who are already familiar with basic Python and NumPy operations but want to explore more advanced features. The exercises are structured to be self-contained, making it easy to follow along and practice.
 
+## Contributions
+If you want to contribute or send any comment, you can contact me.
+[linkedIn](https://www.linkedin.com/in/rosaliagonzalezcaviedes/)
+[Github](https://github.com/liagcaviedes/)
 
 ## License
 
